@@ -1,1 +1,1 @@
-# CSUNSA-IS2
+# Sistema_estudiantes
