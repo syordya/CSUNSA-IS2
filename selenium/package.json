@@ -4,7 +4,7 @@
   "description": "Pruebas Funcionales con Selenium",
   "main": "index.js",
   "scripts": {
-    "test": "Test_Selenium"
+    "test": "jest"
   },
   "keywords": [
     "test",
