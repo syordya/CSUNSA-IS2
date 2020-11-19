@@ -6,7 +6,11 @@
   "scripts": {
     "test": "Test_Selenium"
   },
-  "keywords": ["test","functional","selenium"],
+  "keywords": [
+    "test",
+    "functional",
+    "selenium"
+  ],
   "author": "Yordy Santos",
   "license": "ISC",
   "devDependencies": {
